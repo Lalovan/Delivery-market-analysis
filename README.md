@@ -57,6 +57,8 @@ Dietary preference coverage patterns:
 Other:
 
 ## 6. Methodology ##
+- Normalization 1NF - 5NF 
+- Cleaning
 
 ## 7. Repo Structure ##
 
