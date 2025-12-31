@@ -42,7 +42,7 @@ Exploratory questions:
 - How does vegetarian and vegan availability vary by area?
 - Who are the top hummus-serving restaurants (World Hummus Order)?
 
-Additional original questions derived during exploration:
+Additional questions derived during exploration:
 
 ## 5. Key Insights ##
 
@@ -63,3 +63,4 @@ Other:
 ## 7. Repo Structure ##
 
 ## 8. Timeline ##
+This project took 3 days to be executed.
