@@ -50,16 +50,25 @@ Additional questions derived during exploration:
 
 ## 5. Key Insights ##
 
-Pricing inefficiencies or outliers: 
+**Pricing inefficiencies or outliers:**
 
-High-value restaurants relative to ratings: 
+Menu item prices are strongly concentrated below €15, with a secondary cluster around €20–30. Higher-priced items are rare, suggesting a market centered on affordability rather than premium positioning, with limited price dispersion at the top end.
 
-Geographic supply gaps: 
+**High-value restaurants relative to ratings:**
 
-Dietary preference coverage patterns:
+Restaurants offering fritters consistently dominate the top rankings for price-to-rating ratio, indicating strong perceived value driven by low pricing combined with high customer satisfaction.
 
-Other:
+**Geographic supply gaps:**
 
+Restaurants offering fritters consistently dominate the top rankings for price-to-rating ratio, indicating strong perceived value driven by low pricing combined with high customer satisfaction.
+
+**Dietary preference coverage patterns:**
+
+Restaurant coverage is uneven across locations, with 78 postal-code areas showing minimal availability. These gaps are concentrated primarily in the 8000–9000 postal code range, highlighting potential expansion opportunities for the platform.
+
+**Other:**
+
+Overall, value-driven offerings dominate the platform, while premium pricing and specialized dietary options appear underrepresented, suggesting opportunities for differentiation through menu diversity and targeted geographic expansion.
 
 ## 6. Timeline ##
 This project took 3 days to be executed.
