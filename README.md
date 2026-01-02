@@ -6,12 +6,13 @@
 
 At a Glance: 
 
+This project analyses food delivery data to uncover market trends, service distribution, and possible operational inefficiencies. Key outputs include SQL queries and visualisations.
 
 ## 1. Project Overview  ##
 
 This project explores food delivery platform data to identify market trends and inneficiencies, customer value drivers, and geographic opportunities. 
 
-The analysis focuses on pricing, ratings, restaurant distribution, and menu availability to support data-driven decision-making for restaurant partners and platform stakeholders.
+The analysis focuses on pricing, ratings, restaurant distribution, payment methods, and menu availability to support data-driven decision-making for restaurant partners and platform stakeholders.
 
 ## 2. Objectives ##
 
@@ -40,9 +41,12 @@ Exploratory questions:
 - Which restaurants offer the best price-to-rating ratio?
 - Where are delivery “dead zones” with limited restaurant coverage?
 - How does vegetarian and vegan availability vary by area?
-- Who are the top hummus-serving restaurants (World Hummus Order)?
+- Who are the top hummus-serving restaurants?
 
 Additional questions derived during exploration:
+
+- Where are the top rated vegetarian restaurants?
+- Where bancontact card is not a payment option? 
 
 ## 5. Key Insights ##
 
@@ -56,11 +60,6 @@ Dietary preference coverage patterns:
 
 Other:
 
-## 6. Methodology ##
-- Normalization 1NF - 5NF 
-- Cleaning
 
-## 7. Repo Structure ##
-
-## 8. Timeline ##
+## 6. Timeline ##
 This project took 3 days to be executed.
